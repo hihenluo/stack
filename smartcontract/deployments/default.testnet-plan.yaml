@@ -10,7 +10,7 @@ plan:
       transactions:
         - contract-publish:
             contract-name: restack
-            expected-sender: ST3R1E4VT3ZC14BPAQZBZ6MZMNTPAZJ1CBW1Y3EWG
+            expected-sender: STED2SN59V4AR4RGE2GYX03630W3AND7FNC4M066
             cost: 17980
             path: contracts/restack.clar
             anchor-block-only: true
